@@ -1,5 +1,5 @@
 
-Overview:
+### Overview
 This project is a demonstartion on how to use react-dnd library, user will be able to drag and drop listing items to the cart panel or to the cart icon directly.
 
 
