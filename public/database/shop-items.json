@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Atari",
+      "price": 10.99,
+      "quantity": 15,
+      "image": "/assets/atari.jpg",
+      "category": "Gaming"
+    },
+    {
+      "id": 2,
+      "title": "Fifa 2022",
+      "price": 5.99,
+      "quantity": 1000,
+      "image": "/assets/fifa22.jpg",
+      "category": "Gaming"
+    },
+    {
+      "id": 3,
+      "title": "GTA 5",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/gta5.jpg",
+      "category": "Gaming"
+    },
+    {
+      "id": 4,
+      "title": "Overwatch",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/overwatch.jpg",
+      "category": "Gaming"
+    },
+    {
+      "id": 5,
+      "title": "PS4",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/ps4.jpg",
+      "category": "Gaming"
+    },
+    {
+      "id": 6,
+      "title": "Sims 4",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/sims4.jpg",
+      "category": "Gaming"
+    },
+    {
+      "id": 7,
+      "title": "Xbox one",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/xbox.jpg",
+      "category": "Gaming"
+    },
+    {
+      "id": 8,
+      "title": "Camera",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/camera.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "title": "Mouse",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/mouse.jpg",
+      "category": "Electronics"
+    }
+    ,
+    {
+      "id": 10,
+      "title": "Television",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/tv.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 10,
+      "title": "Projector",
+      "price": 7.99,
+      "quantity": 20,
+      "image": "/assets/projector.jpg",
+      "category": "Electronics"
+    }
+
+  ]
+}

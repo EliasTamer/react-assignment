@@ -1,0 +1,32 @@
+.listing-holder {
+  position: relative;
+  margin: 150px 0px 100px 0px;
+  padding: 0px 50px;
+  .list-items {
+    h1 {
+      margin-bottom: 30px;
+      color: #002861;
+    }
+
+    .load-more-holder {
+      text-align: center;
+      .load-more {
+        background-color: #42368c;
+        border: unset;
+        border-radius: 10px;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 13px 25px;
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.3s;
+
+        &:hover {
+          background-color: #e84e17;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+.error-component {
+  border: solid 1px #000;
+  border-radius: 10px;
+  padding: 30px;
+  text-align: center;
+  margin-top: 150px;
+
+  h1 {
+    margin-bottom: 20px;
+  }
+
+  a {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    border: solid 1px #000;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    transition: 0.3s;
+    font-weight: 500;
+
+    &:hover {
+        color: #fff;
+        border: solid 1px transparent;
+        background-color: #002861;
+    }
+  }
+}
